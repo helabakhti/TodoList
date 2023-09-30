@@ -8,7 +8,7 @@
 }
 
 body {
-  background:#ffffff;
+  background:#345762;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,7 +19,7 @@ body {
 }
 
 h1 {
-  color: #fff;
+  color: #ffffff;
   margin-bottom: 0.5rem;
   font-size: 1.75rem;
 }
@@ -30,6 +30,8 @@ h1 {
   margin-top: 5rem;
   padding: 2rem;
   border-radius: 6px;
+  box-shadow: 5px 5px 10px ;
+
  
   
 }
